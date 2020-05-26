@@ -137,6 +137,8 @@ public class stepDefination extends Utility {
 		// user_calls_with_http_request(resource, "Delete");
 		 
 		 System.out.println("Delete given statetment to push into git");
+		 System.out.println("Delete given statetment to push into develop branch");
+
 	 
 	}
 	    
