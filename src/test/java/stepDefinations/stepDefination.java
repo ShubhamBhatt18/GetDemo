@@ -139,6 +139,8 @@ public class stepDefination extends Utility {
 		 System.out.println("Delete given statetment to push into git");
 		 System.out.println("Delete given statetment to push into develop branch");
 		 System.out.println("Delete given statetment to push into develop branch .This code is for check upation");
+		 
+		 System.out.println("Delete given statetment to push into develop branch .This code is for check upation gitx user");
 	 
 	}
 	    
