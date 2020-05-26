@@ -135,6 +135,8 @@ public class stepDefination extends Utility {
 		 res = given().spec(requestSpecification(placeId+"Delete")).body(data.deletePlacePayLoad(placeId));
 		 
 		// user_calls_with_http_request(resource, "Delete");
+		 
+		 System.out.println("Delete given statetment to push into git");
 	 
 	}
 	    
